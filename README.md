@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praajj
 - 👀 I’m interested in web development and cloud computing
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS, DSA
 - 💞️ I’m looking to collaborate on backend developer roles
 - 📫 How to reach me, email me at prajaktaparte01@gmail.com 
 
